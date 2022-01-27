@@ -1,2 +1,2 @@
 # slider
-Simples demonstração de conhecimento em Css e JavaScript
+Simples demonstração de conhecimento em CSS e JavaScript
